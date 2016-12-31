@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>5by5 Master Audio Feed</title>
+        <link>http://5by5.tv/</link>
+        <pubDate>Mon, 22 Oct 2012 02:45:00 GMT</pubDate>
+        <description>5by5 - All Audio Broadcasts</description>
+        <language>en-us</language>
+        <itunes:new-feed-url>http://feeds.5by5.tv/master</itunes:new-feed-url>
+        <itunes:subtitle>5by5 - All Audio Broadcasts</itunes:subtitle>
+        <itunes:author>5by5 and Dan Benjamin</itunes:author>
+        <itunes:summary>5by5 is an internet broadcast studio making podcasts for people like you.</itunes:summary>
+        <itunes:image href="http://5by5.tv/assets/5by5-itunes.jpg"/>
+        <itunes:keywords>5by5, 5x5, 5 by 5, five by five</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>5by5 Studios and Dan Benjamin</itunes:name>
+            <itunes:email>itunes@5by5.tv</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Technology">
+            <itunes:category text="Tech News"/>
+        </itunes:category>
+        <item>
+            <title>Mac Power Users 108: Mac Tips and Tricks</title>
+            <link>http://5by5.tv/mpu/108</link>
+            <guid>http://5by5.tv/mpu/108</guid>
+            <pubDate>Mon, 22 Oct 2012 02:45:00 GMT</pubDate>
+            <author>David Sparks &amp; Katie Floyd</author>
+            <description>Katie, David and guest Brett Terpstra discuss their favorite Mac Tips and David and Brett's new book, 60 Mountain Lion Tips
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/mpu/2012/mpu-108.mp3" length="34296405" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Katie, David and guest Brett Terpstra discuss their favorite Mac Tips and David and Brett's new book, 60 Mountain Lion Tips&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://www.60tips.com/" class="link" rel="nofollow" target="_blank"&gt;Sixty Mountain Lion Tips Website&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://brettterpstra.com/" class="link" rel="nofollow" target="_blank"&gt;BrettTerpstra.com&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://5by5.tv/systematic" class="link" rel="nofollow" target="_blank"&gt;Systematic&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://itunes.apple.com/us/book/60-mountain-lion-tips/id565956630?ls=1&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID" class="link" rel="nofollow" target="_blank"&gt;60 Mountain Lion Tips - iBookstore Link&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://macsparky.fetchapp.com/sell/aiyaejee" class="link" rel="nofollow" target="_blank"&gt;60 Mountain Lion Tips - PDF&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.smilesoftware.com/PDFpen/iPhone/screencast/index.html" class="link" rel="nofollow" target="_blank"&gt;David's PDFpen for iPhone Video&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.sanebox.com/signup/a0f3336e90" class="link" rel="nofollow" target="_blank"&gt;Sane Box&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;&lt;b&gt;Please support our exclusive sponsor for this episode: Smile:&lt;/b&gt;&lt;/p&gt;
+                
+                &lt;p&gt;&lt;a href="http://www.smilesoftware.com/mpu"&gt;With productivity boosters like TextExpander and PDFpen, smile makes you a Mac Power User&lt;/a&gt;&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>David Sparks &amp; Katie Floyd</itunes:author>
+            <itunes:duration>1:10:52</itunes:duration>
+            <itunes:subtitle>Katie, David and guest Brett Terpstra discuss their favorite Mac Tips and David and Brett's new book, 60 Mountain Lion Tips</itunes:subtitle>
+            <itunes:summary>Katie, David and guest Brett Terpstra discuss their favorite Mac Tips and David and Brett's new book, 60 Mountain Lion Tips
+            </itunes:summary>
+            <itunes:keywords>mac, apple, power user, productivity, workflows</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/25/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fmpu%2F108&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>Screen Time 10: Stan Lee: Purveyor of Wonder</title>
+            <link>http://5by5.tv/screentime/10</link>
+            <guid>http://5by5.tv/screentime/10</guid>
+            <pubDate>Sun, 21 Oct 2012 19:30:00 GMT</pubDate>
+            <author>MoisÃ©s Chiullan</author>
+            <description>MoisÃ©s interviews Stan Lee, creator of many of the most popular characters in the comic book world. They discuss Marvel's wealth of characters to put in the movies, the work Stan does with POW! Entertainment, and the crisis of choice in modern entertainment. They also discuss Stan's earliest influences as a creative person, from Sherlock Holmes and Jules Verne to Errol Flynn and the classic Universal Monsters films.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/screentime/2012/screentime-010.mp3" length="20323451" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;MoisÃ©s interviews Stan Lee, creator of many of the most popular characters in the comic book world. They discuss Marvel's wealth of characters to put in the movies, the work Stan does with POW! Entertainment, and the crisis of choice in modern entertainment. They also discuss Stan's earliest influences as a creative person, from Sherlock Holmes and Jules Verne to Errol Flynn and the classic Universal Monsters films.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://slwoh.com" class="link" rel="nofollow" target="_blank"&gt;Stan Lee's World of Heroes&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://twitter.com/therealstanlee" class="link" rel="nofollow" target="_blank"&gt;TheRealStanLee | Twitter&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;Sponsored by &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (Use promo code 5by5 for 50% off first month), &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (Use code DANSENTME for 10% off), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (Use code VAMPIRE for 10% off), and &lt;a href="http://www.wellgousa.com"&gt;Wellgo USA&lt;/a&gt;.&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>MoisÃ©s Chiullan</itunes:author>
+            <itunes:duration>41:38</itunes:duration>
+            <itunes:subtitle>MoisÃ©s interviews Stan Lee, creator of many of the most popular characters in the comic book world. They discuss Marvel's movies, POW! Entertainment, and Stan's earliest creative influences.</itunes:subtitle>
+            <itunes:summary>MoisÃ©s interviews Stan Lee, creator of many of the most popular characters in the comic book world. They discuss Marvel's wealth of characters to put in the movies, the work Stan does with POW! Entertainment, and the crisis of choice in modern entertainment. They also discuss Stan's earliest influences as a creative person, from Sherlock Holmes and Jules Verne to Errol Flynn and the classic Universal Monsters films.
+            </itunes:summary>
+            <itunes:keywords>movies, TV, media, games, HD, entertainment</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/40/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fscreentime%2F10&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>The Ihnatko Almanac 46: Hormonal Gadget</title>
+            <link>http://5by5.tv/ia/46</link>
+            <guid>http://5by5.tv/ia/46</guid>
+            <pubDate>Sun, 21 Oct 2012 18:15:00 GMT</pubDate>
+            <author>Andy Ihnatko &amp; Dan Benjamin</author>
+            <description>This week, Andy and Dan discuss the impending small form-factor iPad announcement and how the device stacks up to the offerings from Amazon.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/ia/2012/ia-046.mp3" length="31252433" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;This week, Andy and Dan discuss the impending small form-factor iPad announcement and how the device stacks up to the offerings from Amazon.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://appleinsider.com/articles/12/10/20/apple-leaks-mention-of-ibooks-30-reinforcing-ipad-mini-focus-on-ebooks" class="link" rel="nofollow" target="_blank"&gt;Apple leaks mention of iBooks 3.0, reinforcing iPad mini focus on ebooks&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/B008GGCAVM/5by5-20" class="link" rel="nofollow" target="_blank"&gt;Kindle Fire HD - Most Advanced 7&amp;quot; Tablet - Only $199&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/B008GFRBBW/5by5-20" class="link" rel="nofollow" target="_blank"&gt;Kindle Fire HD 8.9&amp;quot; 4G - Latest Wireless Technology with 4G LTE&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/B008GEKXUO/5by5-20" class="link" rel="nofollow" target="_blank"&gt;Kindle Paperwhite - Touch Screen Ereader with Built-In Light&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Ipad" class="link" rel="nofollow" target="_blank"&gt;iPad - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+            </content:encoded>
+            <itunes:author>Andy Ihnatko &amp; Dan Benjamin</itunes:author>
+            <itunes:duration>1:04:27</itunes:duration>
+            <itunes:subtitle>This week, Andy and Dan discuss the impending small form-factor iPad announcement and how the device stacks up to the offerings from Amazon.</itunes:subtitle>
+            <itunes:summary>This week, Andy and Dan discuss the impending small form-factor iPad announcement and how the device stacks up to the offerings from Amazon.
+            </itunes:summary>
+            <itunes:keywords>comics, articles, movies, books, tv, music</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/28/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fia%2F46&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>The Incomparable 112: Schrodinger's Cat Box</title>
+            <link>http://5by5.tv/incomparable/112</link>
+            <guid>http://5by5.tv/incomparable/112</guid>
+            <pubDate>Sat, 20 Oct 2012 03:00:00 GMT</pubDate>
+            <author>Jason Snell</author>
+            <description>Our very own Glenn Fleishman's was on "Jeopardy!" We debriefed him about his adventures immediately on his return. In this episode, Jason and Glenn are also joined by Andy Ihnatko and Steve Lutz, and we talk about game shows and their modern reality-competition show equivalents, as well as harken back to the heyday of the panel show, where drunk celebrities engaged in witty repartee. It's an episode so comfy you'll feel like you were back in the womb at Bill Cullen's house.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/incomparable/2012/incomparable-112.mp3" length="41249564" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Our very own Glenn Fleishman's was on "Jeopardy!" We debriefed him about his adventures immediately on his return. In this episode, Jason and Glenn are also joined by Andy Ihnatko and Steve Lutz, and we talk about game shows and their modern reality-competition show equivalents, as well as harken back to the heyday of the panel show, where drunk celebrities engaged in witty repartee. It's an episode so comfy you'll feel like you were back in the womb at Bill Cullen's house.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://boingboing.net/2012/10/19/the-reality-show-that-acts-lik.html" class="link" rel="nofollow" target="_blank"&gt;What It's Like to Be On &amp;quot;Jeopardy&amp;quot;&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.economist.com/blogs/babbage/2012/10/cramming-quiz-shows" class="link" rel="nofollow" target="_blank"&gt;Cramming for Quiz Shows&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://j-archive.com" class="link" rel="nofollow" target="_blank"&gt;J! Archive&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://amzn.to/VdXQrm" class="link" rel="nofollow" target="_blank"&gt;&amp;quot;Prisoner of Trebekistan&amp;quot; by Bob Harris&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://thenextweb.com/shareables/2011/11/16/mind-blown-this-guy-broke-jeopardys-all-time-record-with-an-app/" class="link" rel="nofollow" target="_blank"&gt;Roger Craig broke &amp;quot;Jeopardy!&amp;quot; record, with an app&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+            </content:encoded>
+            <itunes:author>Jason Snell</itunes:author>
+            <itunes:duration>1:25:20</itunes:duration>
+            <itunes:subtitle>Glenn's visit to "Jeopardy!" and game shows we love.</itunes:subtitle>
+            <itunes:summary>Our very own Glenn Fleishman's was on "Jeopardy!" We debriefed him about his adventures immediately on his return. In this episode, Jason and Glenn are also joined by Andy Ihnatko and Steve Lutz, and we talk about game shows and their modern reality-competition show equivalents, as well as harken back to the heyday of the panel show, where drunk celebrities engaged in witty repartee. It's an episode so comfy you'll feel like you were back in the womb at Bill Cullen's house.
+            </itunes:summary>
+            <itunes:keywords>books, movies, tv, comics, sci-fi, geek</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/30/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fincomparable%2F112&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>Hypercritical 90: Salad Days</title>
+            <link>http://5by5.tv/hypercritical/90</link>
+            <guid>http://5by5.tv/hypercritical/90</guid>
+            <pubDate>Fri, 19 Oct 2012 18:45:00 GMT</pubDate>
+            <author>John Siracusa &amp; Dan Benjamin</author>
+            <description>John Siracusa and Dan Benjamin ponder the upcoming Apple event, assess picayune physical details of the iPhone 5 and iPod touch, compare the newly announced pricing for the Microsoft Surface to its possible competitors, and discuss John's approach to getting value from Twitter.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/hypercritical/2012/hypercritical-090.mp3" length="59266871" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;John Siracusa and Dan Benjamin ponder the upcoming Apple event, assess picayune physical details of the iPhone 5 and iPod touch, compare the newly announced pricing for the Microsoft Surface to its possible competitors, and discuss John's approach to getting value from Twitter.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://thebrief.io/" class="link" rel="nofollow" target="_blank"&gt;The Brief, by Richard Dunlop-Walters&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0788156411/5by5-20" class="link" rel="nofollow" target="_blank"&gt;Pentagon Paradox: The Development of the F-18 Hornet, by James P. Stevenson&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle" class="link" rel="nofollow" target="_blank"&gt;McDonnell Douglas F-15 Eagle - Wikipedia&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://daniel.tent.is/posts/yqdnr3" class="link" rel="nofollow" target="_blank"&gt;Daniel Siders on sending a POST for each follower in Tent&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://arstechnica.com/apple/2012/10/october-23-apple-confirmed-weve-got-a-little-more-to-show-you/" class="link" rel="nofollow" target="_blank"&gt;October 23 Apple event confirmed: âWeâve got a little more to show youâ - Ars Technica&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.asymco.com/2012/10/17/ios-portfolio-price-distribution/" class="link" rel="nofollow" target="_blank"&gt;iOS portfolio price distribution - asymco&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://daringfireball.net/2012/10/ipad_questions_and_answers" class="link" rel="nofollow" target="_blank"&gt;Thoughts on the Display, Price, and Name of the Impending Smaller iPad - Daring Fireball&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/IPad_(3rd_generation)" class="link" rel="nofollow" target="_blank"&gt;iPad (3rd generation) - Wikipedia&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.etsy.com/listing/96098308/felt-ipad-sleeve-case-totoro" class="link" rel="nofollow" target="_blank"&gt;Just one example of a Totoro-themes iPad case on Etsy&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://5by5.tv/hypercritical/73" class="link" rel="nofollow" target="_blank"&gt;Hypercritical #73: 22 Degrees&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.loopinsight.com/2012/10/16/microsoft-surface-will-start-at-499/" class="link" rel="nofollow" target="_blank"&gt;Microsoft Surface will start at $499&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;Sponsored by &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (Use promo code 5by5 for 50% off first month), &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (Use code DANSENTME for 10% off), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (Use code DANSENTME10 for 10% off), and &lt;a href="http://cachefly.com"&gt;CacheFly&lt;/a&gt;&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>John Siracusa &amp; Dan Benjamin</itunes:author>
+            <itunes:duration>2:02:54</itunes:duration>
+            <itunes:subtitle>John Siracusa and Dan Benjamin ponder the upcoming Apple event, assess details of the iPhone 5 and iPod touch, discuss pricing for the Microsoft Surface to its possible competitors, and discuss John's approach to getting value from Twitter.</itunes:subtitle>
+            <itunes:summary>John Siracusa and Dan Benjamin ponder the upcoming Apple event, assess picayune physical details of the iPhone 5 and iPod touch, compare the newly announced pricing for the Microsoft Surface to its possible competitors, and discuss John's approach to getting value from Twitter.
+            </itunes:summary>
+            <itunes:keywords>siracusa, ars technica, tech, geek, apple, mac, sci-fi</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/18/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fhypercritical%2F90&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>The Big Web Show 74: Chris Coyier</title>
+            <link>http://5by5.tv/bigwebshow/74</link>
+            <guid>http://5by5.tv/bigwebshow/74</guid>
+            <pubDate>Fri, 19 Oct 2012 17:30:00 GMT</pubDate>
+            <author>Jeffrey Zeldman</author>
+            <description>In Episode No. 74 of The Big Web Show, Jeffrey Zeldman interviews Chris Coyier of CSS-Tricks, CodePen, and ShopTalk about the path from employee to media maven, upcoming secret features for CodePen, coping with Retina images, finding sponsors, the success of his Kickstarter campaign, tee shirts for manly men, Twitter dramas about baseline grids, and lots more.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/bigwebshow/2012/bigwebshow-074.mp3" length="21575444" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;In Episode No. 74 of The Big Web Show, Jeffrey Zeldman interviews Chris Coyier of CSS-Tricks, CodePen, and ShopTalk about the path from employee to media maven, upcoming secret features for CodePen, coping with Retina images, finding sponsors, the success of his Kickstarter campaign, tee shirts for manly men, Twitter dramas about baseline grids, and lots more.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://codepen.io" class="link" rel="nofollow" target="_blank"&gt;http://codepen.io&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://css-tricks.com" class="link" rel="nofollow" target="_blank"&gt;http://css-tricks.com&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://shoptalkshow.com" class="link" rel="nofollow" target="_blank"&gt;http://shoptalkshow.com&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://jsfiddle.net" class="link" rel="nofollow" target="_blank"&gt;http://jsfiddle.net&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.realthread.com" class="link" rel="nofollow" target="_blank"&gt;http://www.realthread.com&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://css-tricks.com/lodge/" class="link" rel="nofollow" target="_blank"&gt;http://css-tricks.com/lodge/&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://twitter.com/chriscoyier" class="link" rel="nofollow" target="_blank"&gt;https://twitter.com/chriscoyier&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;This episode is sponsored by An Event Apart, the design conference for
+                people who make websites. &lt;a href="http://aneventapart.com"&gt;http://aneventapart.com&lt;/a&gt;&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Jeffrey Zeldman</itunes:author>
+            <itunes:duration>44:16</itunes:duration>
+            <itunes:subtitle>Jeffrey Zeldman interviews Chris Coyier of CSS-Tricks, CodePen, and ShopTalk about the path from employee to media maven, upcoming secret features for CodePen, and much more.</itunes:subtitle>
+            <itunes:summary>In Episode No. 74 of The Big Web Show, Jeffrey Zeldman interviews Chris Coyier of CSS-Tricks, CodePen, and ShopTalk about the path from employee to media maven, upcoming secret features for CodePen, coping with Retina images, finding sponsors, the success of his Kickstarter campaign, tee shirts for manly men, Twitter dramas about baseline grids, and lots more.
+            </itunes:summary>
+            <itunes:keywords>web design, mobile apps, content design, ux, web standards, jeffrey zeldman</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/7/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fbigwebshow%2F74&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>Geek Friday 46: By We I Mean You</title>
+            <link>http://5by5.tv/geekfriday/46</link>
+            <guid>http://5by5.tv/geekfriday/46</guid>
+            <pubDate>Fri, 19 Oct 2012 17:00:00 GMT</pubDate>
+            <author>Faith Korpi &amp; Jason Seifer</author>
+            <description>In this episode, Faith and Jason talk about Keanu Reeves, tweeting, Justin Long, and novel concentration techniques.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/geekfriday/2012/geekfriday-046.mp3" length="38647739" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;In this episode, Faith and Jason talk about Keanu Reeves, tweeting, Justin Long, and novel concentration techniques.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://xkcd.com/386/" class="link" rel="nofollow" target="_blank"&gt;xkcd: Duty Calls&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0387808/" class="link" rel="nofollow" target="_blank"&gt;Idiocracy (2006) - IMDb&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://twitter.com/justinlong" class="link" rel="nofollow" target="_blank"&gt;Justin Long (justinlong) on Twitter&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://twitter.com/mrskorpi" class="link" rel="nofollow" target="_blank"&gt;Deborah Korpi (mrskorpi) on Twitter&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://answers.yahoo.com/question/index?qid=20100809012717AAgAIeS" class="link" rel="nofollow" target="_blank"&gt;In what movies does keanu reeves say &amp;quot;whoa&amp;quot;? - Yahoo! Answers&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.ibtimes.com/apple-ios-6-release-why-you-should-wait-upgrade-793502" class="link" rel="nofollow" target="_blank"&gt;Apple iOS 6 Release: Why You Should Wait To Upgrade&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.geekologie.com/2012/10/breaking-real-lego-ninja-turtle-sets-are.php" class="link" rel="nofollow" target="_blank"&gt;BREAKING: Real Ninja Turtle LEGO Sets Are Coming | Geekologie&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.geekologie.com/2012/10/15k-delorean-watch-made-from-an-actual-d.php" class="link" rel="nofollow" target="_blank"&gt;$15K DeLorean Watch Made From An Actual DeLorean | Geekologie&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://thepiratebay.se/blog/224" class="link" rel="nofollow" target="_blank"&gt;The Pirate Bay - The galaxy's most resilient bittorrent site&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.macrumors.com/2012/10/16/apple-issues-invitations-for-october-23-media-event/" class="link" rel="nofollow" target="_blank"&gt;Apple Issues Invitations for October 23 Media Event - Mac Rumors&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://getconcentrating.com/" class="link" rel="nofollow" target="_blank"&gt;Concentrate :: Eliminate distractions to work and study more productively&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0081871/" class="link" rel="nofollow" target="_blank"&gt;The Greatest American Hero (TV Series 1981â1983) - IMDb&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+            </content:encoded>
+            <itunes:author>Faith Korpi &amp; Jason Seifer</itunes:author>
+            <itunes:duration>1:03:54</itunes:duration>
+            <itunes:subtitle>In this episode, Faith and Jason talk about Keanu Reeves, tweeting, Justin Long, and novel concentration techniques.</itunes:subtitle>
+            <itunes:summary>In this episode, Faith and Jason talk about Keanu Reeves, tweeting, Justin Long, and novel concentration techniques.
+            </itunes:summary>
+            <itunes:keywords>technology, tech, geek, tv, movies, comics, music, gear</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/29/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fgeekfriday%2F46&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>The Nickel 33: Jim Abbott</title>
+            <link>http://5by5.tv/nickel/33</link>
+            <guid>http://5by5.tv/nickel/33</guid>
+            <pubDate>Fri, 19 Oct 2012 17:00:00 GMT</pubDate>
+            <author>Will Carroll</author>
+            <description>Will had a unique opportunity, getting the chance to sit in on a discussion with Jim Abbott. Abbott, the Angels and Yankees pitcher, spoke for an hour, taking questions about his career, his challenges, and his life. It's a special hour of The Nickel, one you will not want to miss.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/nickel/2012/nickel-033.mp3" length="29903374" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Will had a unique opportunity, getting the chance to sit in on a discussion with Jim Abbott. Abbott, the Angels and Yankees pitcher, spoke for an hour, taking questions about his career, his challenges, and his life. It's a special hour of The Nickel, one you will not want to miss.&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Will Carroll</itunes:author>
+            <itunes:duration>1:01:18</itunes:duration>
+            <itunes:subtitle>Will had a unique opportunity, getting the chance to sit in on a discussion with Jim Abbott. Abbott, the Angels and Yankees pitcher, spoke for an hour, taking questions about his career, his challenges, and his life.</itunes:subtitle>
+            <itunes:summary>Will had a unique opportunity, getting the chance to sit in on a discussion with Jim Abbott. Abbott, the Angels and Yankees pitcher, spoke for an hour, taking questions about his career, his challenges, and his life. It's a special hour of The Nickel, one you will not want to miss.
+            </itunes:summary>
+            <itunes:keywords>sports, football, baseball, basketball, hockey, nfl, mlb, nba</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/33/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fnickel%2F33&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>The Frequency 3: Alpha, Beta, Whatever</title>
+            <link>http://5by5.tv/frequency/3</link>
+            <guid>http://5by5.tv/frequency/3</guid>
+            <pubDate>Fri, 19 Oct 2012 16:00:00 GMT</pubDate>
+            <author>Haddie Cooke &amp; Dan Benjamin</author>
+            <description>Dan and Haddie discuss eBay's site redesign, a Bond chart breakdown of kills, conquests, and martinis, seafood restaurant employee getting steamed to death, Tweetbot for Mac arriving with a $20 price tag, a fail video breakdown, an iPhone 5 scandal brought to us on a silver platter by Moises Chiullan and so much more.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/frequency/2012/frequency-003.mp3" length="24484550" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Dan and Haddie discuss eBay's site redesign, a Bond chart breakdown of kills, conquests, and martinis, seafood restaurant employee getting steamed to death, Tweetbot for Mac arriving with a $20 price tag, a fail video breakdown, an iPhone 5 scandal brought to us on a silver platter by Moises Chiullan and so much more.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://www.ebay.com/new" class="link" rel="nofollow" target="_blank"&gt;Welcome to the new eBay.&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://online.wsj.com/article/SB10000872396390444868204578062313532317222.html?mod=djm_nf_novis_Link3" class="link" rel="nofollow" target="_blank"&gt;Nike, RadioShack Drop Lance Armstrong - WSJ.com&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.economist.com/news/books-and-arts/21564816-various-bonds-are-more-different-you-think" class="link" rel="nofollow" target="_blank"&gt;James Bond: Booze, bonks and bodies | The Economist&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.theverge.com/2012/10/19/3525122/samsung-chromebook-3g-available-price" class="link" rel="nofollow" target="_blank"&gt;New Samsung Chromebook also available with 3G for $329.99 | The Verge&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.bgr.com/2012/10/18/new-samsung-chromebook-2012-release-date-google-249/" class="link" rel="nofollow" target="_blank"&gt;New Samsung Chromebook 2012 Release Date: available October 18th, $249&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://allthingsd.com/20121018/older-iphones-still-selling-like-well-iphones/" class="link" rel="nofollow" target="_blank"&gt;Older iPhones Still Selling Like, Well, iPhones - John Paczkowski - Mobile - AllThingsD&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://arstechnica.com/apple/2012/10/apple-removes-java-from-all-os-x-web-browsers/" class="link" rel="nofollow" target="_blank"&gt;Apple removes Java from all OS X Web browsers | Ars Technica&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://news.cnet.com/8301-17938_105-57535567-1/bitten-apples-blasphemous-logo-under-fire-in-russia/" class="link" rel="nofollow" target="_blank"&gt;Bitten: Apple's 'blasphemous' logo under fire in Russia | Crave - CNET&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.neowin.net/news/microsoft-promises-better-imap-support-in-outlook-2013" class="link" rel="nofollow" target="_blank"&gt;Microsoft promises better IMAP support in Outlook 2013 - Neowin&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://arstechnica.com/tech-policy/2012/10/heirs-of-superman-artist-cant-reclaim-their-copyright-judge-rules/" class="link" rel="nofollow" target="_blank"&gt;Heirs of Superman artist canât reclaim their copyright, judge rules | Ars Technica&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://allthingsd.com/20121018/whats-really-going-on-with-color-a-small-apple-talent-acquisition/" class="link" rel="nofollow" target="_blank"&gt;What's Really Going on With Color Is a Small Apple Talent Acquisition - Liz Gannes and John Paczkowski - Social - AllThingsD&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://9to5mac.com/2012/10/18/new-mac-minis-and-imacs-to-retain-same-or-very-similar-pricing-to-current-models-retina-unlikely/" class="link" rel="nofollow" target="_blank"&gt;New Mac minis and iMacs to retain same or very similar pricing to current models, Retina unlikely | 9to5Mac&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.macrumors.com/2012/10/18/iphone-5-represented-21-of-verizons-3-1-million-iphone-activations-in-3q-2012/" class="link" rel="nofollow" target="_blank"&gt;iPhone 5 Represented 21% of Verizon's 3.1 Million iPhone Activations in 3Q 2012 - Mac Rumors&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://gigaom.com/2012/10/18/tweetbot-for-mac-finally-comes-in-for-a-landing-with-20-price-tag/" class="link" rel="nofollow" target="_blank"&gt;Tweetbot for Mac finally comes in for a landing â with $20 price tag â Tech News and Analysis&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.bgr.com/2012/10/18/social-gaming-study-reveals-85-bounce-rate-on-first-day-playnomics/" class="link" rel="nofollow" target="_blank"&gt;Social gaming study: 85% of social gamers quit after first day&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://usnews.nbcnews.com/_news/2012/10/14/14433761-worker-cooked-to-death-at-bumble-bee-seafood-plant-in-california?lite#__utma=238145375.1262464541.1345048414.1345048414.1350654911.2&amp;amp;__utmb=238145375.1.10.1350654911&amp;amp;__utmc=238145375&amp;amp;__utmx=-&amp;amp;__utmz=2381" class="link" rel="nofollow" target="_blank"&gt;Worker cooked to death at Bumble Bee seafood plant in California - U.S. News&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.buzzfeed.com/jpmoore/german-man-tries-to-cannonball-into-frozen-pool-f" class="link" rel="nofollow" target="_blank"&gt;German Man Tries To Cannonball Into Frozen Pool, Fails&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://usnews.nbcnews.com/_news/2012/10/11/14370716-stun-gun-used-on-pizza-deliveryman-leads-to-jail-instead-of-food?lite#__utma=238145375.1262464541.1345048414.1345048414.1350654911.2&amp;amp;__utmb=238145375.1.10.1350654911&amp;amp;__utmc=238145375&amp;amp;__utmx=-&amp;amp;__utmz=2381" class="link" rel="nofollow" target="_blank"&gt;Stun gun used on pizza deliveryman leads to jail instead of food - U.S. News&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://money.cnn.com/2012/10/01/technology/iphone-5-data-overage/index.html" class="link" rel="nofollow" target="_blank"&gt;IPhone 5 WiFi bug leads to giant cellular data overages - Oct. 1, 2012&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://community.verizonwireless.com/message/888565#888565" class="link" rel="nofollow" target="_blank"&gt;I Phone 5 BOGUS DATA OVERAGES | Verizon Wireless Community&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://twitter.com/moiseschiu" class="link" rel="nofollow" target="_blank"&gt;MoisÃ©s Chiullan (moiseschiu) on Twitter&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;Sponsored by &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use code DANSENTME for 10% off), &lt;a href="http://checktheweather.co/"&gt;Check the Weather&lt;/a&gt;, and &lt;a href="http://promissoryapp.com/"&gt;Promissory&lt;/a&gt;.&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Haddie Cooke &amp; Dan Benjamin</itunes:author>
+            <itunes:duration>50:20</itunes:duration>
+            <itunes:subtitle>Dan and Haddie discuss eBay's site redesign, a Bond chart breakdown of kills, conquests, and martinis, seafood restaurant employee getting steamed to death, Tweetbot for Mac arriving with a $20 price tag, a fail video breakdown, an iPhone 5 scandal brough</itunes:subtitle>
+            <itunes:summary>Dan and Haddie discuss eBay's site redesign, a Bond chart breakdown of kills, conquests, and martinis, seafood restaurant employee getting steamed to death, Tweetbot for Mac arriving with a $20 price tag, a fail video breakdown, an iPhone 5 scandal brought to us on a silver platter by Moises Chiullan and so much more.
+            </itunes:summary>
+            <itunes:keywords>frequency, dan benjamin, haddie cooke, news, tech, events, technology</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/41/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Ffrequency%2F3&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>The Comic Shack 19: A Granola Bar and a Bottle of Imodium</title>
+            <link>http://5by5.tv/comicshack/19</link>
+            <guid>http://5by5.tv/comicshack/19</guid>
+            <pubDate>Fri, 19 Oct 2012 02:45:00 GMT</pubDate>
+            <author>Jim Metzendorf</author>
+            <description>Jim talks with 'The Weekly Longbox' co-host Todd Rowker (@RowkerTheJoker) about attending conventions, collecting sketches, autographs, Doctor Who, and more!
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/comicshack/2012/comicshack-019.mp3" length="38577301" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Jim talks with 'The Weekly Longbox' co-host Todd Rowker (@RowkerTheJoker) about attending conventions, collecting sketches, autographs, Doctor Who, and more!&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://www.dcindexes.com/timemachine/" class="link" rel="nofollow" target="_blank"&gt;Comic Book Time Machine&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.theverge.com/2012/10/17/3511848/new-york-comic-con-2012-costumes-photos-portraits-video" class="link" rel="nofollow" target="_blank"&gt;Cosplay portraits from New York Comic Con (via The Verge)&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.comicartfans.com" class="link" rel="nofollow" target="_blank"&gt;Comic Art Fans&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;Sponsored by &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (Use promo code 5by5 for 50% off first month), &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (Use code DANSENTME for 10% off), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (Use code DANSENTME10 for 10% off), and &lt;a href="http://cachefly.com"&gt;CacheFly&lt;/a&gt;&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Jim Metzendorf</itunes:author>
+            <itunes:duration>1:19:45</itunes:duration>
+            <itunes:subtitle>Jim talks with 'The Weekly Longbox' co-host Todd Rowker (@RowkerTheJoker) about attending conventions, collecting sketches, autographs, Doctor Who, and more!</itunes:subtitle>
+            <itunes:summary>Jim talks with 'The Weekly Longbox' co-host Todd Rowker (@RowkerTheJoker) about attending conventions, collecting sketches, autographs, Doctor Who, and more!
+            </itunes:summary>
+            <itunes:keywords>comics, art, geek, books</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/38/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fcomicshack%2F19&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>The B&amp;B Podcast 81: You Gotta Remove the Mustard</title>
+            <link>http://5by5.tv/bb/81</link>
+            <guid>http://5by5.tv/bb/81</guid>
+            <pubDate>Thu, 18 Oct 2012 20:00:00 GMT</pubDate>
+            <author>Ben Brooks &amp; Shawn Blanc</author>
+            <description>Shawn and Ben talk about five different apps that have been released in the past couple weeks.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/bb/2012/bb-081.mp3" length="15611669" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Shawn and Ben talk about five different apps that have been released in the past couple weeks.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://tapbots.com/software/tweetbot/mac/" class="link" rel="nofollow" target="_blank"&gt;Tweetbot for Mac â Tapbots&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://daringfireball.net/linked/2012/10/18/tweetbot-mac" class="link" rel="nofollow" target="_blank"&gt;Daring Fireball Linked List: Tweetbot for Mac&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://checktheweather.co/" class="link" rel="nofollow" target="_blank"&gt;Check the Weather&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://static.crossforward.com/fonts.png" class="link" rel="nofollow" target="_blank"&gt;fonts.png 3,194Ã1,136 pixels&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://the-magazine.org/" class="link" rel="nofollow" target="_blank"&gt;The Magazine&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.marketplace.org/topics/tech/social-search-gets-bigger-and-instapapers-founder-marco-arment-starts-magazine" class="link" rel="nofollow" target="_blank"&gt;Social search gets bigger, and Instapaper's founder Marco Arment starts 'The Magazine' | Marketplace.org&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://albinadevelopment.com/pinbook/index.html" class="link" rel="nofollow" target="_blank"&gt;Pinbook for Pinboard&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://overcommitted.com/recall/" class="link" rel="nofollow" target="_blank"&gt;Recall: Never forget a great recommendation again&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://shawnblanc.net/2012/10/sweet-app-recall/" class="link" rel="nofollow" target="_blank"&gt;Sweet App: Recall â Shawn Blanc&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://excitedpixel.com/apps/ios/quickroute/" class="link" rel="nofollow" target="_blank"&gt;Excited Pixel&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+            </content:encoded>
+            <itunes:author>Ben Brooks &amp; Shawn Blanc</itunes:author>
+            <itunes:duration>32:12</itunes:duration>
+            <itunes:subtitle>Shawn and Ben talk about five different apps that have been released in the past couple weeks.</itunes:subtitle>
+            <itunes:summary>Shawn and Ben talk about five different apps that have been released in the past couple weeks.
+            </itunes:summary>
+            <itunes:keywords>technology, apple, gadgets, software, iphone, ipad</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/34/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fbb%2F81&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>The Frequency 2: So Much Snake</title>
+            <link>http://5by5.tv/frequency/2</link>
+            <guid>http://5by5.tv/frequency/2</guid>
+            <pubDate>Thu, 18 Oct 2012 15:30:00 GMT</pubDate>
+            <author>Haddie Cooke &amp; Dan Benjamin</author>
+            <description>Dan and Haddie discuss Apple's plan to acquire Color labs, Google hosting an Android event, Verizon's Q3 revenues skyrocketing, Newsweek ditching print for digital, the iPad Junior cannibalizing iPad sales, Apple losing their appeal in the UK courts, Horace Dedieu's beautiful chart depicting iOS portfolio price distribution, how the Burner app is raising an angel round to expand, Alto-AOL's new (and surprisingly cool looking) web client, Yelp cracking down on fake/paid reviews. They had a lovely chat about getting funded with Mark DiCristina of MailChimp, and what they would do if they had a robot arm.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/frequency/2012/frequency-002.mp3" length="33531269" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Dan and Haddie discuss Apple's plan to acquire Color labs, Google hosting an Android event, Verizon's Q3 revenues skyrocketing, Newsweek ditching print for digital, the iPad Junior cannibalizing iPad sales, Apple losing their appeal in the UK courts, Horace Dedieu's beautiful chart depicting iOS portfolio price distribution, how the Burner app is raising an angel round to expand, Alto-AOL's new (and surprisingly cool looking) web client, Yelp cracking down on fake/paid reviews. They had a lovely chat about getting funded with Mark DiCristina of MailChimp, and what they would do if they had a robot arm.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://thenextweb.com/insider/2012/10/18/color-gets-acquired-by-apple-rumor/" class="link" rel="nofollow" target="_blank"&gt;Color Labs To Be Acquired By Apple&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.theverge.com/2012/10/17/3516428/color-shuts-down" class="link" rel="nofollow" target="_blank"&gt;$41 million can't buy success as Color app finally gives up (update: Color denies shutdown) | The Verge&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.theverge.com/2012/10/17/3519618/apple-acquiring-color" class="link" rel="nofollow" target="_blank"&gt;Apple rumored to acquire Color in 'done deal' | The Verge&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://thenextweb.com/google/2012/10/18/google-hosting-android-event-monday-oct-29th-in-new-york/" class="link" rel="nofollow" target="_blank"&gt;Google to Host Android Event October 29th in NYC&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.engadget.com/2012/10/18/verizon-q3-2012-financials/" class="link" rel="nofollow" target="_blank"&gt;Verizon reports Q3 wireless service revenues up 7.5 percent, LTE now available to 250 million people -- Engadget&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.thedailybeast.com/articles/2012/10/18/a-turn-of-the-page-for-newsweek.html" class="link" rel="nofollow" target="_blank"&gt;A Turn of the Page for Newsweek - The Daily Beast&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://allthingsd.com/20121018/ipad-mini-a-fine-young-cannibal/" class="link" rel="nofollow" target="_blank"&gt;Apple's iPad Mini Could Cannibalize 15 Percent of Standard iPad Sales - John Paczkowski - Mobile - AllThingsD&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.theverge.com/2012/10/18/3520356/apple-loses-uk-appeal-must-run-adverts" class="link" rel="nofollow" target="_blank"&gt;Apple loses UK Galaxy Tab design appeal, ordered to run public apology | The Verge&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.asymco.com/2012/10/17/ios-portfolio-price-distribution/" class="link" rel="nofollow" target="_blank"&gt;iOS portfolio price distribution | asymco&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://gigaom.com/2012/10/18/smoking-hot-mobile-app-burner-raises-angel-round-for-continued-expansion/" class="link" rel="nofollow" target="_blank"&gt;Smoking hot mobile app Burner raises angel round for continued expansion â Tech News and Analysis&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://gigaom.com/2012/10/18/youve-got-more-mail-aol-launches-web-email-client-alto/" class="link" rel="nofollow" target="_blank"&gt;Youâve got more mail: AOL launches web email client Alto â Tech News and Analysis&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.theverge.com/2012/10/18/3520816/yelp-consumer-alerts-combat-fake-paid-reviews" class="link" rel="nofollow" target="_blank"&gt;Yelp implements consumer alert system to combat fake, paid reviews | The Verge&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.reddit.com/r/frequency/" class="link" rel="nofollow" target="_blank"&gt;The Frequency&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://twitter.com/benandpattyshow" class="link" rel="nofollow" target="_blank"&gt;The Frequency (benandpattyshow) on Twitter&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;Sponsored by &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use code DANSENTME for 10% off), &lt;a href="http://checktheweather.co/"&gt;Check the Weather&lt;/a&gt;, and &lt;a href="http://promissoryapp.com/"&gt;Promissory&lt;/a&gt;.&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Haddie Cooke &amp; Dan Benjamin</itunes:author>
+            <itunes:duration>1:09:11</itunes:duration>
+            <itunes:subtitle>Dan and Haddie discuss Apple's plan to acquire Color labs, Verizon's Q3 revenues skyrocketing, Newsweek ditching print for digital, the iPad Junior cannibalizing iPad sales, Yelp cracking down on fake/paid reviews, and a lovely chat about getting funded w</itunes:subtitle>
+            <itunes:summary>Dan and Haddie discuss Apple's plan to acquire Color labs, Google hosting an Android event, Verizon's Q3 revenues skyrocketing, Newsweek ditching print for digital, the iPad Junior cannibalizing iPad sales, Apple losing their appeal in the UK courts, Horace Dedieu's beautiful chart depicting iOS portfolio price distribution, how the Burner app is raising an angel round to expand, Alto-AOL's new (and surprisingly cool looking) web client, Yelp cracking down on fake/paid reviews. They had a lovely chat about getting funded with Mark DiCristina of MailChimp, and what they would do if they had a robot arm.
+            </itunes:summary>
+            <itunes:keywords>frequency, dan benjamin, haddie cooke, news, tech, events, technology</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/41/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Ffrequency%2F2&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>The Web Ahead 39: Dave Shea</title>
+            <link>http://5by5.tv/webahead/39</link>
+            <guid>http://5by5.tv/webahead/39</guid>
+            <pubDate>Wed, 17 Oct 2012 23:15:00 GMT</pubDate>
+            <author>Jen Simmons</author>
+            <description>Dave Shea joins Eric Meyer and Jen Simmons for the third episode of in The Web Behind series.  They talk about the CSS Zen Garden, a website Dave created in 2003 which showed the world how radically-different designs could be with just CSS. Dave also reflects on the origins and lasting effects of the CSS Sprites technique he introduced to the world, and reminisces about the web design community of a decade ago.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/webahead/2012/webahead-039.mp3" length="29410260" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Dave Shea joins Eric Meyer and Jen Simmons for the third episode of in &lt;i&gt;The Web Behind&lt;/i&gt; series.  They talk about the CSS Zen Garden, a website Dave created in 2003 which showed the world how radically-different designs could be with just CSS. Dave also reflects on the origins and lasting effects of the CSS Sprites technique he introduced to the world, and reminisces about the web design community of a decade ago.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://www.csszengarden.com/" class="link" rel="nofollow" target="_blank"&gt;css Zen Garden: The Beauty in CSS Design&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dave_Shea_(web_designer)" class="link" rel="nofollow" target="_blank"&gt;Dave Shea (web designer) - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.webstandards.org/about/members/dshea/" class="link" rel="nofollow" target="_blank"&gt;Dave Shea - The Web Standards Project&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://mezzoblue.com/" class="link" rel="nofollow" target="_blank"&gt;mezzoblue Â§ Home&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.thenoodleincident.com/" class="link" rel="nofollow" target="_blank"&gt;the noodle incident&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.csszengarden.com/?cssfile=001/001.css" class="link" rel="nofollow" target="_blank"&gt;css Zen Garden â design 1&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.csszengarden.com/?cssfile=002/002.css" class="link" rel="nofollow" target="_blank"&gt;css Zen Garden â design 2&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.csszengarden.com/?cssfile=003/003.css" class="link" rel="nofollow" target="_blank"&gt;css Zen Garden â design 3&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.csszengarden.com/?cssfile=004/004.css" class="link" rel="nofollow" target="_blank"&gt;css Zen Garden â design 4&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.csszengarden.com/?cssfile=005/005.css" class="link" rel="nofollow" target="_blank"&gt;css Zen Garden â design 5&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://placenamehere.com/neuralustmirror/200202/" class="link" rel="nofollow" target="_blank"&gt;~cac6982 | 200202 | Daily CSS Fun&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.chunkysoup.net/opinion/boringcss/" class="link" rel="nofollow" target="_blank"&gt;Your CSS Bores Me - ChunkySoup.net&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://web.archive.org/web/20060216222115/http://www.mezzoblue.com/archives/2003/03/11/hack_hotbot/" class="link" rel="nofollow" target="_blank"&gt;mezzoblue Â Â§Â  Hack Hotbot! (Or donât even bother)&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.zeldman.com/daily/0203b.shtml" class="link" rel="nofollow" target="_blank"&gt;Jeffrey Zeldman talks about the ESPN redesign&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0321303474/5by5-20" class="link" rel="nofollow" target="_blank"&gt;The Zen of CSS Design, the book by Dave Shea &amp;amp; Molly Holzschlag&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.alistapart.com/articles/sprites" class="link" rel="nofollow" target="_blank"&gt;A List Apart: Articles: CSS Sprites: Image Slicingâs Kiss of Death&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;Sponsored by &lt;a href="http://resourceguruapp.com"&gt;Resource Guru&lt;/a&gt; (use code &lt;code&gt;WEBAHEAD&lt;/code&gt; to get 3 free months on any plan) and by the &lt;a href="http://incontrolconference.com/"&gt;In Control Conference&lt;/a&gt; (use coupon code &lt;code&gt;ALOHAAHEAD&lt;/code&gt; for $100 off).&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Jen Simmons</itunes:author>
+            <itunes:duration>60:48</itunes:duration>
+            <itunes:subtitle>Dave Shea, creator of The CSS Zen Garden, talks about web design ten years ago, the move to CSS-based layouts and more. </itunes:subtitle>
+            <itunes:summary>Dave Shea joins Eric Meyer and Jen Simmons for the third episode of in The Web Behind series.  They talk about the CSS Zen Garden, a website Dave created in 2003 which showed the world how radically-different designs could be with just CSS. Dave also reflects on the origins and lasting effects of the CSS Sprites technique he introduced to the world, and reminisces about the web design community of a decade ago.
+            </itunes:summary>
+            <itunes:keywords>web, css, css zen garden, sprites, icons</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/26/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fwebahead%2F39&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>The Frequency 1: Space Crickets</title>
+            <link>http://5by5.tv/frequency/1</link>
+            <guid>http://5by5.tv/frequency/1</guid>
+            <pubDate>Wed, 17 Oct 2012 19:15:00 GMT</pubDate>
+            <author>Haddie Cooke &amp; Dan Benjamin</author>
+            <description>Dan and Haddie discuss The Microsoft Surface, FedEx's gambling problems, the release of the iPad Jr. and the retina Macbook Pro 13-in and rumors of the new Mac minis, the Kindle selling "at cost", the shuttle Endeavor touring the streets of LA, an Austrian man that broke the sound barrier, Area 51, the top 5 worst sounds in the world, and the germ-filled experience that is traveling.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/frequency/2012/frequency-001.mp3" length="30382992" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Dan and Haddie discuss The Microsoft Surface, FedEx's gambling problems, the release of the iPad Jr. and the retina Macbook Pro 13-in and rumors of the new Mac minis, the Kindle selling "at cost", the shuttle Endeavor touring the streets of LA, an Austrian man that broke the sound barrier, Area 51, the top 5 worst sounds in the world, and the germ-filled experience that is traveling.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://www.loopinsight.com/2012/10/16/microsoft-surface-will-start-at-499/" class="link" rel="nofollow" target="_blank"&gt;Microsoft Surface will start at $499&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://news.cnet.com/8301-10805_3-57533859-75/$499-microsoft-surface-preorders-slip-to-three-weeks/" class="link" rel="nofollow" target="_blank"&gt;$499 Microsoft Surface preorders slip to three weeks | Microsoft - CNET News&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.loopinsight.com/2012/10/16/the-surface-ad-sucks-balls/" class="link" rel="nofollow" target="_blank"&gt;The Surface ad sucks balls&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://allthingsd.com/20121016/windows-pushes-into-the-tablet-age/" class="link" rel="nofollow" target="_blank"&gt;Windows 8 Review - Walt Mossberg - Personal Technology - AllThingsD&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://9to5mac.com/2012/10/16/apple-to-launch-24-new-ipad-models-comprised-of-ipad-minis-and-perhaps-lightning-ipad-3/" class="link" rel="nofollow" target="_blank"&gt;Apple to launch 24 new iPad models, comprised of iPad minis and perhaps Lightning iPad 3 | 9to5Mac&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://allthingsd.com/20121012/apple-likely-to-unveil-ipad-mini-at-october-23-event/" class="link" rel="nofollow" target="_blank"&gt;Apple Likely to Unveil &amp;quot;iPad Mini&amp;quot; at October 23 Event - John Paczkowski - Mobile - AllThingsD&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://9to5mac.com/2012/10/14/13-inch-macbook-pro-with-retina-display-confirmed-for-apple-event/" class="link" rel="nofollow" target="_blank"&gt;13-inch MacBook Pro with Retina display confirmed for Apple event | 9to5Mac&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://9to5mac.com/2012/10/15/apple-also-planning-new-mac-minis-for-launch-alongside-smaller-ipad/" class="link" rel="nofollow" target="_blank"&gt;Apple also planning new Mac minis for launch alongside smaller iPad | 9to5Mac&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.theverge.com/2012/10/16/3513860/motorola-stock-android-customization-verizon" class="link" rel="nofollow" target="_blank"&gt;Motorola calls stock Android 'the right thing,' but bows to Verizon customization | The Verge&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.wired.com/business/2012/10/amazon-next-advertising-giant/" class="link" rel="nofollow" target="_blank"&gt;Amazon's Next Big Business Is Selling You | Wired Business | Wired.com&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.theverge.com/2012/10/15/3504532/xbox-music-pricing-availability-microsoft-xbox-360-windows-phone-8-windows-8" class="link" rel="nofollow" target="_blank"&gt;Xbox Music launches Tuesday on Xbox 360, will come pre-installed on Windows 8 and Windows Phone 8 | The Verge&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.reuters.com/article/2012/10/12/us-amazon-kindle-idUSBRE89B01K20121012" class="link" rel="nofollow" target="_blank"&gt;Amazon CEO confirms Kindle sold at cost | Reuters&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.loopinsight.com/2012/10/12/one-third-of-consumers-likely-to-buy-an-iphone-5/" class="link" rel="nofollow" target="_blank"&gt;One-third of consumers likely to buy an iPhone 5&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.huffingtonpost.com/2012/10/11/ufo-film-area-51-crew_n_1959619.html" class="link" rel="nofollow" target="_blank"&gt;UFO Conspiracy Film Crew Detained At Gunpoint At Legendary Area 51 Gate: EXCLUSIVE&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.guardian.co.uk/uk/the-northerner/2012/oct/10/newcastle-university-scientists-brain-unpleasant-sounds-reaction" class="link" rel="nofollow" target="_blank"&gt;Are these the five most unpleasant sounds in everyday life? | UK news | guardian.co.uk&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;Sponsored by &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use code DANSENTME for 10% off) and by &lt;a href="http://symbolicons.com"&gt;Symbolicons&lt;/a&gt; (use code DANLOVESICONS for 15% off).&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Haddie Cooke &amp; Dan Benjamin</itunes:author>
+            <itunes:duration>1:02:38</itunes:duration>
+            <itunes:subtitle>Dan and Haddie discuss The Microsoft Surface, FedEx's gambling problems, the release of the iPad Jr. and the retina Macbook Pro 13-in and rumors of the new Mac minis, and more.</itunes:subtitle>
+            <itunes:summary>Dan and Haddie discuss The Microsoft Surface, FedEx's gambling problems, the release of the iPad Jr. and the retina Macbook Pro 13-in and rumors of the new Mac minis, the Kindle selling "at cost", the shuttle Endeavor touring the streets of LA, an Austrian man that broke the sound barrier, Area 51, the top 5 worst sounds in the world, and the germ-filled experience that is traveling.
+            </itunes:summary>
+            <itunes:keywords>frequency, dan benjamin, haddie cooke, news, tech, events, technology</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/41/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Ffrequency%2F1&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>Amplified 27: Real Trouble</title>
+            <link>http://5by5.tv/amplified/27</link>
+            <guid>http://5by5.tv/amplified/27</guid>
+            <pubDate>Wed, 17 Oct 2012 17:45:00 GMT</pubDate>
+            <author>Jim Dalrymple &amp; Dan Benjamin</author>
+            <description>This week, Jim and Dan discuss the upcoming Apple launch event, the new Xbox Music service, the Microsoft Surface and its recently announced pricing, what's next for Amazon, RIM's comeback, Google Books, Echofon for Mac, writing and responding to email, and the Zoom MS-50G stompbox.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/amplified/2012/amplified-027.mp3" length="35642625" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;This week, Jim and Dan discuss the upcoming Apple launch event, the new Xbox Music service, the Microsoft Surface and its recently announced pricing, what's next for Amazon, RIM's comeback, Google Books, Echofon for Mac, writing and responding to email, and the Zoom MS-50G stompbox.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://www.loopinsight.com/2012/10/16/apple-announces-special-event-for-oct-23/" class="link" rel="nofollow" target="_blank"&gt;Apple announces special event for Oct. 23&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.theverge.com/2012/10/15/3504532/xbox-music-pricing-availability-microsoft-xbox-360-windows-phone-8-windows-8" class="link" rel="nofollow" target="_blank"&gt;Xbox Music launches Tuesday on Xbox 360, will come pre-installed on Windows 8 and Windows Phone 8 | The Verge&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.theverge.com/2012/10/11/3490712/softbank-sprint-galaxy-s-iii-mini-street-view-90sotv" class="link" rel="nofollow" target="_blank"&gt;90 Seconds on The Verge: SoftBank eyes Sprint, Galaxy S III shrink, and Google hits the street | The Verge&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.theverge.com/2012/10/12/3492960/the-vergecast-050-october-11th-2012" class="link" rel="nofollow" target="_blank"&gt;The Vergecast 050 - October 11th, 2012 | The Verge&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.loopinsight.com/2012/10/16/microsoft-surface-will-start-at-499/" class="link" rel="nofollow" target="_blank"&gt;Microsoft Surface will start at $499&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://news.cnet.com/8301-10805_3-57533859-75/$499-microsoft-surface-preorders-slip-to-three-weeks/" class="link" rel="nofollow" target="_blank"&gt;$499 Microsoft Surface preorders slip to three weeks | Microsoft - CNET News&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.reuters.com/article/2012/10/12/us-amazon-kindle-idUSBRE89B01K20121012" class="link" rel="nofollow" target="_blank"&gt;Amazon CEO confirms Kindle sold at cost | Reuters&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.wired.com/business/2012/10/amazon-next-advertising-giant/" class="link" rel="nofollow" target="_blank"&gt;Amazon's Next Big Business Is Selling You | Wired Business | Wired.com&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.loopinsight.com/2012/10/12/one-third-of-consumers-likely-to-buy-an-iphone-5/" class="link" rel="nofollow" target="_blank"&gt;One-third of consumers likely to buy an iPhone 5&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.itworldcanada.com/news/10-solid-reasons-rim-will-make-a-comeback/146235" class="link" rel="nofollow" target="_blank"&gt;10 solid reasons RIM will make a comeback - Page 1 - Departmental and End User Computing&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://arstechnica.com/tech-policy/2012/10/court-rules-book-scanning-is-fair-use-suggesting-google-books-victory/" class="link" rel="nofollow" target="_blank"&gt;Court rules book scanning is fair use, suggesting Google Books victory | Ars Technica&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.loopinsight.com/2012/10/16/echofon-for-mac-will-be-no-more/" class="link" rel="nofollow" target="_blank"&gt;Echofon for Mac will be no more&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.randsinrepose.com/archives/2012/10/14/the_elegant_email.html" class="link" rel="nofollow" target="_blank"&gt;Rands In Repose: The Elegant Email&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.zoom.co.jp/products/ms-50g" class="link" rel="nofollow" target="_blank"&gt;MS-50G | ZOOM&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;Sponsored by &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (Use promo code 5by5 for 50% off first month), &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (Use code DANSENTME for 10% off), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (Use code DANSENTME10 for 10% off), and &lt;a href="http://cachefly.com"&gt;CacheFly&lt;/a&gt;&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Jim Dalrymple &amp; Dan Benjamin</itunes:author>
+            <itunes:duration>1:13:23</itunes:duration>
+            <itunes:subtitle>This week, Jim and Dan discuss the upcoming Apple launch event, the Xbox Music service, the Microsoft Surface, what's next for Amazon, RIM's comeback, Google Books, Echofon for Mac, writing and responding to email, and the Zoom MS-50G stompbox.</itunes:subtitle>
+            <itunes:summary>This week, Jim and Dan discuss the upcoming Apple launch event, the new Xbox Music service, the Microsoft Surface and its recently announced pricing, what's next for Amazon, RIM's comeback, Google Books, Echofon for Mac, writing and responding to email, and the Zoom MS-50G stompbox.
+            </itunes:summary>
+            <itunes:keywords>apple, mac, ipad, iphone, ios, guitars, music, recording</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/35/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Famplified%2F27&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>In Beta 20: If This Then Yahoo</title>
+            <link>http://5by5.tv/inbeta/20</link>
+            <guid>http://5by5.tv/inbeta/20</guid>
+            <pubDate>Tue, 16 Oct 2012 19:00:00 GMT</pubDate>
+            <author>Gina Trapani &amp; Kevin Purdy</author>
+            <description>Gina &amp;amp; Kevin peck at the idea of Yahoo becoming a meta web-connector, and discuss some Git/GitHub tools every budding dev should know about.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/inbeta/2012/inbeta-020.mp3" length="20468768" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Gina &amp;amp; Kevin peck at the idea of Yahoo becoming a meta web-connector, and discuss some Git/GitHub tools every budding dev should know about.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://jfornear.co/why-marissa-mayer-should-acquire-ifttt-and-go-all-in-on-yahoo-pipes/?utm_medium=referral&amp;amp;utm_source=pulsenews" class="link" rel="nofollow" target="_blank"&gt;Why Marissa Mayer Should Acquire IFTTT And Go All In On Yahoo! Pipes&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://ifttt.com/" class="link" rel="nofollow" target="_blank"&gt;IFTTT / Put the internet to work for you.&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://lifehacker.com/235726/geek-to-live--create-your-master-feed-with-yahoo-pipes" class="link" rel="nofollow" target="_blank"&gt;Geek to Live: Create your master feed with Yahoo! Pipes&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://wappwolf.com/dropboxautomator/" class="link" rel="nofollow" target="_blank"&gt;Automate your Dropbox&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://help.github.com/" class="link" rel="nofollow" target="_blank"&gt;github:help&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://bottlenose.com/" class="link" rel="nofollow" target="_blank"&gt;Bottlenose - Surf the Stream&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://try.github.com/levels/1/challenges/2" class="link" rel="nofollow" target="_blank"&gt;Code School - Try Git&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://help.github.com/articles/ignoring-files" class="link" rel="nofollow" target="_blank"&gt;Ignoring files Â· github:help&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://speirs.org/blog/2009/5/11/understanding-git-submodules.html" class="link" rel="nofollow" target="_blank"&gt;Understanding Git Submodules â Fraser Speirs&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://git-scm.com/book" class="link" rel="nofollow" target="_blank"&gt;Git - Book&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://gitcasts.com/" class="link" rel="nofollow" target="_blank"&gt;GitCasts&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://gitready.com/" class="link" rel="nofollow" target="_blank"&gt;git ready Â» learn git one commit at a time&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://ndpsoftware.com/git-cheatsheet.html#loc=index" class="link" rel="nofollow" target="_blank"&gt;Git Cheatsheet&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.trider.apps" class="link" rel="nofollow" target="_blank"&gt;GTrack App - Android Apps on Google Play&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://gtrackapp.blogspot.co.il/" class="link" rel="nofollow" target="_blank"&gt;GTrack App Blog&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;In Beta sponsored this week by &lt;a href="http://getHarvest.com/5by5"&gt;Harvest&lt;/a&gt; (use code 5BY5 for 50% off first month), &lt;a href="http://hover.com/dansentme"&gt;Hover.com&lt;/a&gt; (code DANSENTME for 10% off everything), and &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (code VAMPIRE for 10% off). Bandwidth sponsored by &lt;a href="http://cachefly.com"&gt;CacheFly&lt;/a&gt;.&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Gina Trapani &amp; Kevin Purdy</itunes:author>
+            <itunes:duration>41:55</itunes:duration>
+            <itunes:subtitle>Yahoo as a major web/social connector? And some Git/GitHub beginners' tools everyone should know.</itunes:subtitle>
+            <itunes:summary>Gina &amp;amp; Kevin peck at the idea of Yahoo becoming a meta web-connector, and discuss some Git/GitHub tools every budding dev should know about.
+            </itunes:summary>
+            <itunes:keywords>web, open source software, oss, tools, mobile, social</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/37/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Finbeta%2F20&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>Back to Work 89: Burlap Sack Full of Oranges</title>
+            <link>http://5by5.tv/b2w/89</link>
+            <guid>http://5by5.tv/b2w/89</guid>
+            <pubDate>Tue, 16 Oct 2012 18:00:00 GMT</pubDate>
+            <author>Merlin Mann &amp; Dan Benjamin</author>
+            <description>TOPIC: Programming Your Kid's Danger Room.
+                
+                This week, Dan and Merlin discuss the parenthood racket: the advice and expectations, the doubt and the fear, the assessment, the concentric circles, the snow cones.
+                
+                Parenting means programming a Danger Room that teaches you and the kid to handle the hovering, the hitting, the losing, and the play structure.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/b2w/2012/b2w-089.mp3" length="44047007" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;&lt;strong&gt;TOPIC&lt;/strong&gt;: Programming Your Kid's Danger Room.&lt;/p&gt;
+                
+                &lt;p&gt;This week, Dan and Merlin discuss the parenthood racket: the advice and expectations, the doubt and the fear, the assessment, the concentric circles, the snow cones.&lt;/p&gt;
+                
+                &lt;p&gt;Parenting means programming a Danger Room that teaches you &lt;em&gt;and&lt;/em&gt; the kid to handle the hovering, the hitting, the losing, and the play structure.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://hover.com/dansentme" class="link" rel="nofollow" target="_blank"&gt;[SPONSOR] Hover - domain name and email management made simple&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://careers.mutualmobile.com/fivebyfive" class="link" rel="nofollow" target="_blank"&gt;[SPONSOR] iOS Engineering - Mutual Mobile&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.shutterstock.com/" class="link" rel="nofollow" target="_blank"&gt;[SPONSOR] Stock Photos and Royalty-Free Images by Subscription - Shutterstock&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://squarespace.com/backtowork" class="link" rel="nofollow" target="_blank"&gt;[SPONSOR] Build a Website - Squarespace 6&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.flickr.com/photos/danbenjamin/5546883592/" class="link" rel="nofollow" target="_blank"&gt;The name is Bond. | Flickr - Photo Sharing!&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Shmuel" class="link" rel="nofollow" target="_blank"&gt;Shmuel - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://kottke.org/09/05/at-the-playground-ya-know" class="link" rel="nofollow" target="_blank"&gt;At the playground (ya know?)&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.flickr.com/photos/merlin/4327650937/" class="link" rel="nofollow" target="_blank"&gt;Hippie | Flickr - Photo Sharing!&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.flickr.com/photos/merlin/4326484776/" class="link" rel="nofollow" target="_blank"&gt;The Author at Work | Flickr - Photo Sharing!&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.merlinmann.com/roderick/ep-51-in-pursuit-of-an-errant-leaf.html" class="link" rel="nofollow" target="_blank"&gt;Ep. 51: &amp;quot;In Pursuit of an ErrantÂ Leaf&amp;quot; - Roderick on the Line - Merlin Mann&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://twitter.com/danbenjamin/status/255734002869227520" class="link" rel="nofollow" target="_blank"&gt;Twitter / danbenjamin: GF dining in NYC at L'Asso ...&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.hopnplay.com/" class="link" rel="nofollow" target="_blank"&gt;Hop 'n Play Kids Indoor Playground in Tanforan Shopping Center (San Bruno, CA)&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.dailyscript.com/scripts/shining.html" class="link" rel="nofollow" target="_blank"&gt;&amp;quot;The Shining&amp;quot; - Production Script&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://5by5.tv/buildanalyze/99" class="link" rel="nofollow" target="_blank"&gt;5by5 | Build and Analyze #99: The Podcast&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://5by5.tv/hypercritical/89" class="link" rel="nofollow" target="_blank"&gt;5by5 | Hypercritical #89: Lazy Sunday&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Danger_Room" class="link" rel="nofollow" target="_blank"&gt;Danger Room - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://marvel.com/universe/Danger_Room" class="link" rel="nofollow" target="_blank"&gt;Danger Room - Marvel Universe Wiki: The definitive online source for Marvel super hero bios.&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.google.com/search?q=x-men+danger+room&amp;amp;hl=en&amp;amp;safe=off&amp;amp;prmd=imvns&amp;amp;tbm=isch&amp;amp;tbo=u&amp;amp;source=univ&amp;amp;sa=X&amp;amp;ei=qqZ9UL_9KPDUyQHi8ICYAQ&amp;amp;ved=0CC0QsAQ&amp;amp;biw=1202&amp;amp;bih=1612#hl=en&amp;amp;safe=off&amp;amp;tbm=isch&amp;amp;sa=1&amp;amp;q=x-men+%22danger+room%22&amp;amp;oq=x-men+%22danger+room%22&amp;amp;gs_l=img" class="link" rel="nofollow" target="_blank"&gt;x-men &amp;quot;danger room&amp;quot; - Google Image Search&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Fiddler_on_the_Roof" class="link" rel="nofollow" target="_blank"&gt;Fiddler on the Roof - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=8kZg_ALxEz0&amp;amp;feature=related" class="link" rel="nofollow" target="_blank"&gt;Glengarry Glen Ross speech - YouTube&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;This week's episode of &lt;em&gt;Back to Work&lt;/em&gt; is kindly sponsored by &lt;a href="http://hover.com/dansentme" title="Hover - domain name and email management made simple"&gt;Hover&lt;/a&gt;, &lt;a href="http://careers.mutualmobile.com/fivebyfive" title="iOS Engineering - Mutual Mobile"&gt;Mutual Mobile&lt;/a&gt;, &lt;a href="http://www.shutterstock.com/" title="Stock Photos and Royalty-Free Images by Subscription - Shutterstock"&gt;Shutterstock&lt;/a&gt;, and &lt;a href="http://squarespace.com/backtowork" title="Build a Website - Squarespace 6"&gt;Squarespace&lt;/a&gt;.&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Merlin Mann &amp; Dan Benjamin</itunes:author>
+            <itunes:duration>1:31:10</itunes:duration>
+            <itunes:subtitle>TOPIC: Programming Your Kid's Danger Room.</itunes:subtitle>
+            <itunes:summary>TOPIC: Programming Your Kid's Danger Room.
+                
+                This week, Dan and Merlin discuss the parenthood racket: the advice and expectations, the doubt and the fear, the assessment, the concentric circles, the snow cones.
+                
+                Parenting means programming a Danger Room that teaches you and the kid to handle the hovering, the hitting, the losing, and the play structure.
+            </itunes:summary>
+            <itunes:keywords>productivity, communication, work, barriers, constraints, tools</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/19/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fb2w%2F89&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>Systematic 14: Christina Warren - Editing Yourself</title>
+            <link>http://5by5.tv/systematic/14</link>
+            <guid>http://5by5.tv/systematic/14</guid>
+            <pubDate>Tue, 16 Oct 2012 16:00:00 GMT</pubDate>
+            <author>Brett Terpstra</author>
+            <description>Christina Warren guests this week to discuss the intersection of tech and entertainment, personal drive and, of course, Halloween costumes.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/systematic/2012/systematic-014.mp3" length="38819375" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Christina Warren guests this week to discuss the intersection of tech and entertainment, personal drive and, of course, Halloween costumes.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://christina.is/" class="link" rel="nofollow" target="_blank"&gt;Christina Warren&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://twitter.com/film_girl" class="link" rel="nofollow" target="_blank"&gt;Christina Warren (film_girl) on Twitter&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://alpha.app.net/christina" class="link" rel="nofollow" target="_blank"&gt;christina on App.net&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://mashable.com/follow/topics/christina-warren/" class="link" rel="nofollow" target="_blank"&gt;Christina Warren on Mashable&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://itunes.apple.com/us/app/quick-route/id540554946?mt=8" class="link" rel="nofollow" target="_blank"&gt;Quick Route for iPhone 3GS, iPhone 4, iPhone 4S, iPhone 5, iPod touch (3rd generation), iPod touch (4th generation), iPod touch (5th generation) and iPad on the iTunes App Store&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.mindmeister.com/" class="link" rel="nofollow" target="_blank"&gt;Mindmeister&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://login.altomail.com/login/signin?next=http://altomail.com/app/main" class="link" rel="nofollow" target="_blank"&gt;Alto&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://zengobi.com/" class="link" rel="nofollow" target="_blank"&gt;Curio&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://itunes.apple.com/us/app/its-great-pumpkin-charlie/id552498441?mt=8" class="link" rel="nofollow" target="_blank"&gt;It's The Great Pumpkin, Charlie Brown (iTunes)&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.apparentsoft.com/trickster" class="link" rel="nofollow" target="_blank"&gt;Trickster&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;This week's episode is brought to you by &lt;a href="http://getHarvest.com/5by5"&gt;Harvest&lt;/a&gt; (coupon code &lt;strong&gt;5BY5&lt;/strong&gt;), &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (coupon code &lt;strong&gt;DANSENTME&lt;/strong&gt;) and &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt;.&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Brett Terpstra</itunes:author>
+            <itunes:duration>1:20:08</itunes:duration>
+            <itunes:subtitle>Christina Warren guests this week to discuss the intersection of tech and entertainment.</itunes:subtitle>
+            <itunes:summary>Christina Warren guests this week to discuss the intersection of tech and entertainment, personal drive and, of course, Halloween costumes.
+            </itunes:summary>
+            <itunes:keywords>productivity, work, creativity, mac, iOS</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/39/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fsystematic%2F14&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>The Critical Path 59: Gut-level Affection, An interview with Jean-Louis GassÃ©e</title>
+            <link>http://5by5.tv/criticalpath/59</link>
+            <guid>http://5by5.tv/criticalpath/59</guid>
+            <pubDate>Tue, 16 Oct 2012 01:00:00 GMT</pubDate>
+            <author>Horace Dediu &amp; Dan Benjamin</author>
+            <description>Horace talks to Jean-Louis GassÃ©e about the early years of personal computing from 1968 to 1991. Covering his early roles at HP, Exxon Office Systems and his years at Apple, the story takes us back to a time and place that seems so distant and yet so familiar.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/criticalpath/2012/criticalpath-059.mp3" length="27251198" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Horace talks to Jean-Louis GassÃ©e about the early years of personal computing from 1968 to 1991. Covering his early roles at HP, Exxon Office Systems and his years at Apple, the story takes us back to a time and place that seems so distant and yet so familiar.&lt;/p&gt;
+                &lt;p&gt;Sponsored by &lt;a href="http://helpspot.com/5by5"&gt;HelpSpot&lt;/a&gt; (use offer code 5by5 for $100 off), &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use code DANSENTME for 10% off), &lt;a href="http://sourcebits.com"&gt;Sourcebits&lt;/a&gt;, and &lt;a href="http://cachefly.com"&gt;CacheFly&lt;/a&gt;&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Horace Dediu &amp; Dan Benjamin</itunes:author>
+            <itunes:duration>56:04</itunes:duration>
+            <itunes:subtitle>Horace talks to Jean-Louis GassÃ©e about the early years of personal computing from 1968 to 1991. The pair discuss GassÃ©e's early roles at HP, Exxon Office Systems and his years at Apple.</itunes:subtitle>
+            <itunes:summary>Horace talks to Jean-Louis GassÃ©e about the early years of personal computing from 1968 to 1991. Covering his early roles at HP, Exxon Office Systems and his years at Apple, the story takes us back to a time and place that seems so distant and yet so familiar.
+            </itunes:summary>
+            <itunes:keywords>mobile, apple, iphone, ipad, ios, rim, blackberry, nokia, android, google</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/24/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fcriticalpath%2F59&amp;user_id=danbenjamin"/>
+        </item>
+        <item>
+            <title>Build and Analyze 99: The Podcast</title>
+            <link>http://5by5.tv/buildanalyze/99</link>
+            <guid>http://5by5.tv/buildanalyze/99</guid>
+            <pubDate>Tue, 16 Oct 2012 00:45:00 GMT</pubDate>
+            <author>Marco Arment &amp; Dan Benjamin</author>
+            <description>Dan and Marco discuss Marco's new app, The Magazine.
+            </description>
+            <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-099.mp3" length="43892764" type="audio/mpeg"/>
+            <content:encoded>&lt;p&gt;Dan and Marco discuss Marco's new app, The Magazine.&lt;/p&gt;
+                &lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://the-magazine.org/" class="link" rel="nofollow" target="_blank"&gt;The Magazine&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.marco.org/2012/10/11/the-magazine" class="link" rel="nofollow" target="_blank"&gt;The Magazine â Marco.org&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://thefeature.net/" class="link" rel="nofollow" target="_blank"&gt;The Feature&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://thebrief.io/" class="link" rel="nofollow" target="_blank"&gt;The Brief&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                
+                &lt;p&gt;Sponsored by &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (Use promo code 5by5 for 50% off first month), &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (Use code DANSENTME for 10% off), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (Use code DANSENTME10 for 10% off), and &lt;a href="http://cachefly.com"&gt;CacheFly&lt;/a&gt;&lt;/p&gt;
+            </content:encoded>
+            <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+            <itunes:duration>1:30:52</itunes:duration>
+            <itunes:subtitle>Dan and Marco discuss Marco's new app, The Magazine.</itunes:subtitle>
+            <itunes:summary>Dan and Marco discuss Marco's new app, The Magazine.
+            </itunes:summary>
+            <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+            <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+            <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fbuildanalyze%2F99&amp;user_id=danbenjamin"/>
+        </item>
+    </channel>
+</rss>

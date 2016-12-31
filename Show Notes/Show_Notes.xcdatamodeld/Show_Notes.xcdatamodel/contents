@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="1.0" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1811" systemVersion="11G63b" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Episode" syncable="YES">
+        <attribute name="body" attributeType="String" syncable="YES"/>
+        <attribute name="link" attributeType="String" syncable="YES"/>
+        <attribute name="pubDate" attributeType="Date" syncable="YES"/>
+        <attribute name="shortTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="summary" attributeType="String" syncable="YES"/>
+        <attribute name="title" attributeType="String" syncable="YES"/>
+        <relationship name="show" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Show" inverseName="episodes" inverseEntity="Show" syncable="YES"/>
+    </entity>
+    <entity name="Show" syncable="YES">
+        <attribute name="hidden" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="icon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="link" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" attributeType="String" syncable="YES"/>
+        <attribute name="sortOrder" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="episodes" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Episode" inverseName="show" inverseEntity="Episode" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Episode" positionX="0" positionY="0" width="128" height="150"/>
+        <element name="Show" positionX="0" positionY="0" width="128" height="135"/>
+    </elements>
+</model>

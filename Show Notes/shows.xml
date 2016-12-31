@@ -1,0 +1,132 @@
+<shows>
+    <show>
+        <name>5by5 at the Movies</name>
+        <feedURL>http://feeds.5by5.tv/movies</feedURL>
+        <icon>movies.jpg</icon>
+    </show>
+    <show>
+        <name>5by5 Specials</name>
+        <feedURL>http://feeds.5by5.tv/specials</feedURL>
+        <icon>specials.jpg</icon>
+    </show>
+    <show>
+        <name>Amplified</name>
+        <feedURL>http://feeds.5by5.tv/amplified</feedURL>
+        <icon>amplified.jpg</icon>
+    </show>
+    <show>
+        <name>The Big Web Show</name>
+        <feedURL>http://feeds.5by5.tv/bigwebshow</feedURL>
+        <icon>bigwebshow.jpg</icon>
+    </show>
+    <show>
+        <name>B&amp;B Podcast</name>
+        <feedURL>http://feeds.5by5.tv/bb</feedURL>
+        <icon>bb.jpg</icon>
+    </show>
+    <show>
+        <name>After Dark</name>
+        <feedURL>http://feeds.5by5.tv/afterdark</feedURL>
+        <icon>ad.jpg</icon>
+    </show>
+    <show>
+        <name>Back to Work</name>
+        <feedURL>http://feeds.5by5.tv/b2w</feedURL>
+        <icon>b2w.jpg</icon>
+    </show>
+    <show>
+        <name>Build and Analyze</name>
+        <feedURL>http://feeds.5by5.tv/buildanalyze</feedURL>
+        <icon>ba.jpg</icon>
+    </show>
+    <show>
+        <name>The Comic Shack</name>
+        <feedURL>http://feeds.5by5.tv/comicshack</feedURL>
+        <icon>comicshack.jpg</icon>
+    </show>
+    <show>
+        <name>Content Talks</name>
+        <feedURL>http://feeds.5by5.tv/contenttalks</feedURL>
+        <icon>contenttalks.jpg</icon>
+    </show>
+    <show>
+        <name>The Critical Path</name>
+        <feedURL>http://feeds.5by5.tv/criticalpath</feedURL>
+        <icon>criticalpath.jpg</icon>
+    </show>
+    <show>
+        <name>Founders Talk</name>
+        <feedURL>http://feeds.5by5.tv/founderstalk</feedURL>
+        <icon>founderstalk.jpg</icon>
+    </show>
+    <show>
+        <name>The Frequency</name>
+        <feedURL>http://feeds.5by5.tv/frequency</feedURL>
+        <icon>frequency.jpg</icon>
+    </show>
+    <show>
+        <name>Geek Friday</name>
+        <feedURL>http://feeds.5by5.tv/geekfriday</feedURL>
+        <icon>geekfriday.jpg</icon>
+    </show>
+    <show>
+        <name>Hypercritical</name>
+        <feedURL>http://feeds.5by5.tv/hypercritical</feedURL>
+        <icon>hyper.jpg</icon>
+    </show>
+    <show>
+        <name>In Beta</name>
+        <feedURL>http://feeds.5by5.tv/inbeta</feedURL>
+        <icon>inbeta.jpg</icon>
+    </show>
+    <show>
+        <name>Ihnatko Almanac</name>
+        <feedURL>http://feeds.5by5.tv/ia</feedURL>
+        <icon>ia.jpg</icon>
+    </show>
+    <show>
+        <name>The Incomparable</name>
+        <feedURL>http://feeds.5by5.tv/incomparable</feedURL>
+        <icon>incomparable.jpg</icon>
+    </show>
+    <show>
+        <name>Latest in Paleo</name>
+        <feedURL>http://feeds.5by5.tv/paleo</feedURL>
+        <icon>paleo.jpg</icon>
+    </show>
+    <show>
+        <name>Mac Power Users</name>
+        <feedURL>http://feeds.5by5.tv/mpu</feedURL>
+        <icon>mpu.jpg</icon>
+    </show>
+    <show>
+        <name>The Nickel</name>
+        <feedURL>http://feeds.5by5.tv/nickel</feedURL>
+        <icon>nickel.jpg</icon>
+    </show>
+    <show>
+        <name>Old Tech News</name>
+        <feedURL>http://feeds.5by5.tv/otn</feedURL>
+        <icon>otn.jpg</icon>
+    </show>
+    <show>
+        <name>The Pipeline</name>
+        <feedURL>http://feeds.5by5.tv/pipeline</feedURL>
+        <icon>pipeline.jpg</icon>
+    </show>
+    <show>
+        <name>Screen Time</name>
+        <feedURL>http://feeds.5by5.tv/screentime</feedURL>
+        <icon>screentime.jpg</icon>
+    </show>
+    <show>
+        <name>Systematic</name>
+        <feedURL>http://feeds.5by5.tv/systematic</feedURL>
+        <icon>systematic.jpg</icon>
+    </show>
+    <show>
+        <name>The Web Ahead</name>
+        <feedURL>http://feeds.5by5.tv/webahead</feedURL>
+        <icon>webahead.jpg</icon>
+    </show>
+</shows>
